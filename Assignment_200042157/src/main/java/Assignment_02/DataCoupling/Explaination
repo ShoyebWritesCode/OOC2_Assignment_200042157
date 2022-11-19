@@ -1,0 +1,1 @@
+The class Product communicates with the class manager by passing only data. Hence they are data coupled.

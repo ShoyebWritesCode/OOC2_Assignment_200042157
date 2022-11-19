@@ -1,0 +1,2 @@
+The flow of execution of Status method in Manager class is controlled by the CheckStatus method of Product class.
+so both the classes are control coupled.

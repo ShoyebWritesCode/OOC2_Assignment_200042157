@@ -1,0 +1,2 @@
+The class Manager modifies the data of Product class.Hence they are content coupled.
+This is the worst form of coupling.
